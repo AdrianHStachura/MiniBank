@@ -1,3 +1,3 @@
 # MiniBank
 Bank System written in C. The goal of this project is to learn about how banks work and through all the steps while simulating things such as social security numbers. 
-This project is a work in progress. I want this project to start from being a basic little bank account thats extremly hard coded and eventually upgrading the system day by day to reach a high secure bank app. This app is just for fun and learning purposes.
+This project is a work in progress while at the same time leveraging tools such as git and other intresting lirbaries I find on my journey creating this app. I want this project to start from being a basic little bank account thats extremly hard coded and eventually upgrading the system day by day to reach a high secure bank app. This app is just for fun and learning purposes. 
