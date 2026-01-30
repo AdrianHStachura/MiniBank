@@ -1,14 +1,22 @@
 #include "libraries.h"
 #include "config.h"
 
-struct person
-{
+struct Person {
+    // Identification
+    char* SSN;
     char* fullName;
     char* accountNumber;
-    int creditScore;
+    char* pin;
+
+    // Financial info
     int currentBalance;
-    
+    int yearlyIncome;
+    int creditScore;
+
+    // Personal info
+    char* Occupation;
 };
+
 
 int main(void){
    system("clear");
